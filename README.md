@@ -84,7 +84,8 @@ Python Scripts:
 
 ## Screenshots
 ### Data Cleaning and Transformation
-![Data Cleaning](path/to/image1.png)
+![Data transformation](https://github.com/user-attachments/assets/6e2feb46-0ce6-4e2b-b16c-2ce788142bcb)
+
 
 ### Model Training
 ![Model Training](path/to/image2.png)
