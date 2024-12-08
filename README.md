@@ -92,7 +92,8 @@ Python Scripts:
 
 
 ### Pipeline Logs
-![Pipeline Logs](path/to/image3.png)
+![Final Logs](https://github.com/user-attachments/assets/36c9947d-52ea-4d2b-89cb-68ad4029f9c4)
+
 
 ---
 
