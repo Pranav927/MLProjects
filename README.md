@@ -88,7 +88,8 @@ Python Scripts:
 
 
 ### Model Training
-![Model Training](path/to/image2.png)
+![Model trainer](https://github.com/user-attachments/assets/4cd94b04-003a-4620-8b1c-b74263a8650d)
+
 
 ### Pipeline Logs
 ![Pipeline Logs](path/to/image3.png)
